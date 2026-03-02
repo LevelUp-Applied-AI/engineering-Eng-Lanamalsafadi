@@ -31,7 +31,7 @@ pip install -r requirements-prework.txt
 ## How to run
 
 1. Clone the repository:
-   git clone <repo-url>
+   git clone <https://github.com/LevelUp-Applied-AI/engineering-Eng-Lanamalsafadi.git>
 
 2. Navigate to project folder:
    cd engineering-Eng-Lanamalsafadi
@@ -47,4 +47,4 @@ pip install -r requirements-prework.txt
    python src/main.py
 
 6. Confirm success:
-   The program runs without errors and outputs expected results.                                                                                                                                                   
+   The program runs
